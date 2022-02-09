@@ -2,7 +2,7 @@
 
 This git reposity was made through collaboration with Aunustap Das, Dawn Mao and Scott Agnew.
 
-The code shown here combines principal component analysis, one-vs-all multiclass classification, and a Quantum-enhanced Support Vector Machine simulations in order to classify between x-rays of normal lungs, viral pneumonia lungs, and bacterial pneumonia lungs. 
+The code shown here combines principal component analysis, one-vs-all multiclass classification, and a quantum-enhanced support vector machine simulation in order to classify between x-rays of normal lungs, viral pneumonia lungs, and bacterial pneumonia lungs. 
 
 Motivation:
 
